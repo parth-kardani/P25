@@ -1,0 +1,30 @@
+.heading{
+    font-size:25px;
+    width:100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px black;
+
+}
+
+.NOTE{
+    font-size:16px;
+    box-shadow:5px 5px 5px black;
+
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom:0;
+    width:100%;
+    background-color:tomato;
+    color:seashell;
+    text-align: center;
+}
+
+canvas{
+    border:5px;
+    background-color:darksalmon;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px darkseagreen;
+    
+}
